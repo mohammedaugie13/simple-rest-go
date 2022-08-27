@@ -1,0 +1,10 @@
+input InfoQueryInput {
+    email: String! @binding(constraint: "required,email")
+}
+
+type InfoQuery {
+    email: String!
+    isRegistered: Boolean!
+    isEmailVerified: Boolean!
+    actionToken: String!
+}
