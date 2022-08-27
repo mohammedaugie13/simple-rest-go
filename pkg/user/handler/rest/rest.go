@@ -1,6 +1,6 @@
 package rest
 
-import "github.com/bitwyre/template-go/pkg/user/service"
+import "github.com/mohammedaugi13/simple-rest-go/pkg/user/service"
 
 type Rest struct {
 	service.Service

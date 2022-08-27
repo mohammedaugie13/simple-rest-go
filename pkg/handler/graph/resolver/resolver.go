@@ -1,9 +1,9 @@
 package graph
 
 import (
-	"github.com/bitwyre/template-go/pkg"
-	"github.com/bitwyre/template-go/pkg/handler/graph/generated"
-	"github.com/bitwyre/template-go/pkg/service"
+	"github.com/mohammedaugi13/simple-rest-go/pkg"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/handler/graph/generated"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/service"
 )
 
 type Resolver struct {

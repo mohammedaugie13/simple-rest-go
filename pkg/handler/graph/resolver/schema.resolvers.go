@@ -7,7 +7,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bitwyre/template-go/pkg/handler/graph/model"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/handler/graph/model"
 )
 
 func (r *MutationResolver) CreateTodo(ctx context.Context, input model.NewTodo) (*model.Todo, error) {

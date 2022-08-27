@@ -1,6 +1,6 @@
 package service
 
-import "github.com/bitwyre/template-go/pkg/repository"
+import "github.com/mohammedaugi13/simple-rest-go/pkg/repository"
 
 type IHealthCheckService interface {
 	HealthCheck() *responseMsg

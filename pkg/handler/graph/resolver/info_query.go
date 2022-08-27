@@ -6,9 +6,9 @@ package graph
 import (
 	"context"
 
-	"github.com/bitwyre/template-go/pkg/handler/graph/generated"
-	"github.com/bitwyre/template-go/pkg/handler/graph/model"
-	"github.com/bitwyre/template-go/pkg/helper"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/handler/graph/generated"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/handler/graph/model"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/helper"
 )
 
 func (r *QueryResolver) InfoQuery(ctx context.Context, input *model.InfoQueryInput) (*model.InfoQuery, error) {

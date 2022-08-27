@@ -1,4 +1,4 @@
-module github.com/bitwyre/template-go
+module github.com/mohammedaugi13/simple-rest-go
 
 go 1.17
 

@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"github.com/bitwyre/template-go/pkg/datastore/postgres/entity"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/datastore/postgres/entity"
 	"gorm.io/gorm"
 )
 

@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/bitwyre/template-go/pkg/user/handler/rest"
 	"github.com/gin-gonic/gin"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/user/handler/rest"
 )
 
 type Router struct {

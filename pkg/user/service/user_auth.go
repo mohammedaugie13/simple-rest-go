@@ -1,9 +1,9 @@
 package service
 
 import (
-	"github.com/bitwyre/template-go/pkg/handler/graph/model"
-	"github.com/bitwyre/template-go/pkg/helper"
-	"github.com/bitwyre/template-go/pkg/repository"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/handler/graph/model"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/helper"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/repository"
 )
 
 type IUserAuthService interface {

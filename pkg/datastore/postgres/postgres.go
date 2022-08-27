@@ -2,10 +2,10 @@ package postgres
 
 import (
 	"fmt"
-	"github.com/bitwyre/template-go/pkg/datastore/postgres/entity"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/datastore/postgres/entity"
 	"log"
 
-	"github.com/bitwyre/template-go/pkg/lib"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/lib"
 	pgDriver "gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

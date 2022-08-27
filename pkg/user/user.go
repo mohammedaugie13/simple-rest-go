@@ -1,11 +1,11 @@
 package user
 
 import (
-	"github.com/bitwyre/template-go/pkg/repository"
-	"github.com/bitwyre/template-go/pkg/user/handler/rest"
-	"github.com/bitwyre/template-go/pkg/user/router"
-	"github.com/bitwyre/template-go/pkg/user/service"
 	"github.com/gin-gonic/gin"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/repository"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/user/handler/rest"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/user/router"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/user/service"
 )
 
 type UserModule struct {

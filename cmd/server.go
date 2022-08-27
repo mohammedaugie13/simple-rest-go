@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/bitwyre/template-go/pkg/app"
-	"github.com/bitwyre/template-go/pkg/lib"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/app"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/lib"
 )
 
 func Server() {

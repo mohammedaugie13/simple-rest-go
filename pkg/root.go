@@ -1,9 +1,9 @@
 package pkg
 
 import (
-	"github.com/bitwyre/template-go/pkg/repository"
-	"github.com/bitwyre/template-go/pkg/user"
 	"github.com/gin-gonic/gin"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/repository"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/user"
 )
 
 type Module struct {

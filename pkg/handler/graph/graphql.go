@@ -5,12 +5,12 @@ import (
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
-	"github.com/bitwyre/template-go/pkg"
-	"github.com/bitwyre/template-go/pkg/handler/graph/generated"
-	graph "github.com/bitwyre/template-go/pkg/handler/graph/resolver"
-	"github.com/bitwyre/template-go/pkg/lib"
-	"github.com/bitwyre/template-go/pkg/service"
 	"github.com/gin-gonic/gin"
+	"github.com/mohammedaugi13/simple-rest-go/pkg"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/handler/graph/generated"
+	graph "github.com/mohammedaugi13/simple-rest-go/pkg/handler/graph/resolver"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/lib"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/service"
 )
 
 type GraphQL struct {

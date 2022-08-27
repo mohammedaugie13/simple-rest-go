@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bitwyre/template-go/pkg/lib"
+	"github.com/mohammedaugi13/simple-rest-go/pkg/lib"
 )
 
 func gen(str string) []byte {
