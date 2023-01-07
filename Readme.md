@@ -2,6 +2,7 @@
 
 This is Go Clean Architecture Template with gin framework as HTTP Server, gqlgen as GraphQL Server, gorm as orm for database related operations.
 
+
 This project already included Sample Rest API and GraphQL Query:
 - `http://localhost:3000/healthc` Sample Health Check
 - `http://localhost:3000/graph/play` GraphQL Playground
